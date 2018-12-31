@@ -1,2 +1,0 @@
-# ShearImageSalon
-Created with CodeSandbox
